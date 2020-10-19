@@ -1,0 +1,123 @@
+h1{
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    font-size: 50px;
+    margin: 20px;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+}
+p{
+    text-align: justify;
+    font-family: 'Satisfy', cursive;
+    margin: 30px;
+    font-size: 20px;
+}
+#Blog{
+
+    text-align: center;
+}
+iframe{
+    height: 700px;
+    width: 900px;
+    margin-left: 10px;
+    margin: 50px;
+}
+#Contact iframe
+{
+    width: 90%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+input
+{
+    background: grey;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 999999;
+}
+#Blog a:hover{
+    color: coral;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+#Blog a{
+    color: royalblue;
+    text-decoration: none;
+}
+
+li{
+    display: inline;
+}
+h4{
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.Review1, .Review2, Review3{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+hr{
+    width: 230px;
+}
+#AC h5 p{
+    margin-left: 20px;
+}
+#AcheivementsID{
+    padding-bottom: 10px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 80%;
+    display: inline-block;
+    background-color: blue;
+}
+.movie_head i{
+    float: right;
+    cursor: pointer;
+}
+.movie_text span{
+    color: #ff7700;
+}
+.movie_head img{
+    height: 30px;
+    width: 30px;
+}
+h5{
+    font-family: 'Courgette', cursive;
+}
+#AC img{
+    width: 100%;
+}
+.ACH{
+    width: 500px;
+    height: 200px;
+}
+#AerialView iframe{
+    width: 90%;
+}
+#AC{
+    text-align: center;
+}
+#LTS li{
+    margin: 10px;
+}
